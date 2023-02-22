@@ -3,3 +3,5 @@
 ## February 21, 2023 Finalized
 ## Team Menbers
 Zheng Junzhe, Han Linpei, Zhang Yi
+## Our Works
+![](./illustration/Mindmap/Figure/GreenGDP.pdf)
