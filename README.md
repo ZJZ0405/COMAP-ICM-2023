@@ -1,2 +1,5 @@
-# COMMAP-ICM-2023
-COMAP's Interdisciplinary Contest In Modeling-F
+# COMAP's Interdisciplinary Contest In Modeling
+
+## February 21, 2023 Finalized
+## Team Menbers
+Zheng Junzhe, Han Linpei, Zhang Yi
