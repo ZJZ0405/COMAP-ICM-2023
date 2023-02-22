@@ -4,4 +4,4 @@
 ## Team Menbers
 Zheng Junzhe, Han Linpei, Zhang Yi
 ## Our Works
-![Mindmap](https://github.com/ZJZ0405/COMAP-ICM-2023/blob/main/illustration/Mindmap/Figure/GreenGDP.pdf)
+![Mindmap](https://github.com/ZJZ0405/COMAP-ICM-2023/blob/main/illustration/Mindmap/Figure/Green%20GDP%20.png)
