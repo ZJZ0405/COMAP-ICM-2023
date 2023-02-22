@@ -4,4 +4,4 @@
 ## Team Menbers
 Zheng Junzhe, Han Linpei, Zhang Yi
 ## Our Works
-![](./illustration/Mindmap/Figure/GreenGDP.pdf)
+![Mindmap](illustration/Mindmap/Figure/GreenGDP.pdf)
